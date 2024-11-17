@@ -5,7 +5,7 @@ This is the backend part of the TypeToTalk project, built with Node.js and Expre
 ## Tech Stack
 
 - **Node.js**
-- **Express**
+- **Express js**
 - **MongoDB** with Mongoose
 - **Socket.io** for real-time communication
 - **Multer** for file handling
